@@ -1,4 +1,4 @@
-# Desafio 02 HTML
+# Desafio HTML
 ## Projeto em HMTL e CSS disponível no site da DIO
 
 Este desafio teve como objetivo, criar um site "quase" completo, utilizando HTML e CSS. 
